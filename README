@@ -18,8 +18,8 @@ The package distribution includes the following files and directories:
 README			   this file
 LICENSE			   the GNU General Public License (GPL)
 src			       source files
-data               the initial parameters and output data
-compile.sh         the shellscript to compile the fortran code in src
+data           the initial parameters and output data
+compile.sh     the shellscript to compile the fortran code in src
 
 Good luck with your DPD simulations!
 
